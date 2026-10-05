@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack AI",
+  "description": "Smart nutrition and meal tracking platform designed for everyday Indian users with real-time sync, macros, and AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
